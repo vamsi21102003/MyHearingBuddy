@@ -2,6 +2,7 @@
 
 ![InShot_20260203_221011921](https://github.com/user-attachments/assets/e6cdc418-4b75-431c-8f83-824e41fdf00c)
 
+For Demo Video: https://www.linkedin.com/posts/vamsi-krishna-6b123b36b_ai-machinelearning-signlanguage-activity-7424495569596731392-ZliW?utm_source=share&utm_medium=member_android&rcm=ACoAAFuxiSUBS8c8EpwHFlCLE4Y1Uh-qAmxp8Jw
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/61025453-9cb2-4d7f-8537-e4f36267fb9d" width="200" alt="Live Detection"/>
