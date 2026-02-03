@@ -1,6 +1,14 @@
 # MyHearingBuddy - Sign Language Detection App
 
-A React Native Expo mobile application for real-time Indian Sign Language (ISL) detection and translation using AI-powered gesture recognition.
+![InShot_20260203_221011921](https://github.com/user-attachments/assets/e6cdc418-4b75-431c-8f83-824e41fdf00c)
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/61025453-9cb2-4d7f-8537-e4f36267fb9d" width="200" alt="Live Detection"/>
+  <img src="https://github.com/user-attachments/assets/d7b4e7a3-7f0f-4705-8cf6-dd9696d0a932" width="200" alt="Hand Detection"/>
+  <img src="https://github.com/user-attachments/assets/9b684df0-d1e0-4334-b15f-122089a583a1" width="200" alt="Settings"/>
+  <img src="https://github.com/user-attachments/assets/b71091ad-f8a1-4c60-8747-a5d30bd914f3" width="200" alt="Detection Results"/>
+</div>
 
 ## Features
 
